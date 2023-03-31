@@ -6,7 +6,7 @@ IClienteService clienteService = new ClienteService();
 string opcao;
 do
 {
-    Console.WriteLine("Bem vindos ao Banco FULL STACK BANCK, escolha uma opção");
+    Console.WriteLine("Bem vindos ao Banco FULL BANK, escolha uma opção");
     Console.WriteLine("1 - Criar Conta ");
     Console.WriteLine("2 - Adicionar Transacao");
     Console.WriteLine("3 - Consultar Extrato");
